@@ -64,3 +64,8 @@ npm install
 ## Useful tutorials
 - [Connect to MongoDB with Node.js](https://www.mongodb.com/docs/drivers/node/current/quick-start/connect-to-mongodb/)
 - [Cheat Sheat for MongoDB](https://www.mongodb.com/docs/drivers/node/current/quick-reference/)
+
+## Authors
+- [Myself](https://github.com/Clemy-beep)
+- [LilCisaille](https://github.com/LilCisaille)
+- [Mortifia](https://github.com/mortifia)
