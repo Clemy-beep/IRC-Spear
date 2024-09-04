@@ -26,8 +26,8 @@ In addition, the following command must be implemented:
 
 ## Installation
 ```shell
-git clone git@github.com:EpitechMscProPromo2026/T-JSF-600-NCY_2.git
-cd T-JSF-600-NCY_2
+git clonegit@github.com:Clemy-beep/IRC-Spear.git
+cd IRC-Spear
 docker-compose up --build
 npm install
 ```
